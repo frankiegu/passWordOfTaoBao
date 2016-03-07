@@ -3,4 +3,4 @@
 
 该demo 中 可以根据 复制的是 Yeallow或者是 Orange 文字来跳转到不同的控制器
 
-![](https://github.com/MarkBuster/passWordOfTaoBao/taobao.gif)  
+![](https://github.com/MarkBuster/passWordOfTaoBao/raw/master/taobao.gif)  
